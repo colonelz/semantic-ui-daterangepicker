@@ -23,7 +23,7 @@
   "homepage": "https://github.com/BreadMaker/semantic-ui-daterangepicker",
   "engines": {
     "node": "0.10.32",
-    "nmp": "1.4.28"
+    "npm": "1.4.28"
   },
   "dependencies": {
     "jquery": "^1.10",
